@@ -1,0 +1,19 @@
+Assume you work for a big Toy brand like Hamley's or Toys R us and the CEO of the company wants to know how the brand is performing in a given country.
+
+Here is some data associated with toy sales from one of the leading toy manufacturers, analyze it and come up with a story about how the brand is performing in the country of Mexico.
+
+Below is a description about each of the columns present in the data: 
+
+Store_ID = Code to identify Store
+Product_ID = Code to identify Product
+Stock_On_Hand = The number of items in the store room of the given product.
+Product_Name = Name of the Product.
+Product_Category = What category does the product come into.
+Product_Cost = Cost of the product in $ USD (Cost to the store & not the consumer)
+Product_Price = Retail price of the product in $ USD (Selling Price to the consumer)
+Sale_ID = Code to identify a sale transaction
+Date = Date of the sale transaction
+Units = The no. of items store as a part of the sale.
+Store_Name = Name of the Store.
+Store_Location = Location of the city where the store is located.
+Store_Open_Date = Date when the store was opened.
